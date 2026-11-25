@@ -1,0 +1,13 @@
+# File generati da Dart
+.dart_tool/
+.packages
+build/
+
+# Dati locali creati a runtime (account, annunci, candidature e CV caricati)
+data/
+uploads/
+
+# IDE
+.idea/
+*.iml
+.DS_Store

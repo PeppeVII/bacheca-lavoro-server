@@ -1,0 +1,2 @@
+# Regole di analisi consigliate per il codice Dart
+include: package:lints/recommended.yaml

@@ -1,0 +1,17 @@
+name: bacheca_lavoro_server
+description: Backend REST della Bacheca Lavoro (annunci di lavoro e candidature).
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.0.0
+
+# Le versioni vengono risolte da "dart pub get" (come nell'esempio L8)
+dependencies:
+  shelf: any
+  shelf_router: any
+  crypto: any
+
+# Solo per l'analisi del codice (analysis_options.yaml)
+dev_dependencies:
+  lints: any
